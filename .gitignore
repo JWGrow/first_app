@@ -3,8 +3,6 @@ db/*.sqlite3
 log/*.log
 *.log
 tmp/
-tmp/*
-tmp/**/*
-doc/api
-doc/app
-*.swp
+doc/
+*~
+.project
